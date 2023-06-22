@@ -1,0 +1,61 @@
+This is BibTeX, Version 0.99d (TeX Live 2022/dev/Debian)
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: samplepaper.aux
+White space in argument---line 18 of file samplepaper.aux
+ : \citation{tom_children_2001,
+ :                              p. 665}
+I'm skipping whatever remains of this command
+White space in argument---line 19 of file samplepaper.aux
+ : \citation{tom_children_2001,
+ :                              p. 665}
+I'm skipping whatever remains of this command
+The style file: splncs04.bst
+Database file #1: text/references.bib
+Warning--I didn't find a database entry for "ref_article1"
+Warning--I didn't find a database entry for "ref_lncs1"
+Warning--I didn't find a database entry for "ref_book1"
+Warning--I didn't find a database entry for "ref_proc1"
+Warning--I didn't find a database entry for "ref_url1"
+Warning--can't use both author and editor fields in theory_of_mind
+You've used 8 entries,
+            2850 wiz_defined-function locations,
+            660 strings with 6206 characters,
+and the built_in function-call counts, 4458 in all, are:
+= -- 367
+> -- 101
+< -- 11
++ -- 43
+- -- 34
+* -- 289
+:= -- 553
+add.period$ -- 12
+call.type$ -- 8
+change.case$ -- 38
+chr.to.int$ -- 0
+cite$ -- 9
+duplicate$ -- 404
+empty$ -- 424
+format.name$ -- 40
+if$ -- 1002
+int.to.chr$ -- 0
+int.to.str$ -- 8
+missing$ -- 77
+newline$ -- 30
+num.names$ -- 16
+pop$ -- 123
+preamble$ -- 1
+purify$ -- 33
+quote$ -- 0
+skip$ -- 143
+stack$ -- 0
+substring$ -- 273
+swap$ -- 241
+text.length$ -- 11
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 26
+warning$ -- 1
+while$ -- 36
+width$ -- 9
+write$ -- 95
+(There were 2 error messages)

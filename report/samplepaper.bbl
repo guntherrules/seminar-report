@@ -1,0 +1,47 @@
+\begin{thebibliography}{1}
+\providecommand{\url}[1]{\texttt{#1}}
+\providecommand{\urlprefix}{URL }
+\providecommand{\doi}[1]{https://doi.org/#1}
+
+\bibitem{fb_test_places_2}
+Baron-Cohen, S., Leslie, A.M., Frith, U.: Does the autistic child have a
+  “theory of mind” ? Cognition  \textbf{21}(1),  37--46 (1985).
+  \doi{https://doi.org/10.1016/0010-0277(85)90022-8},
+  \url{https://www.sciencedirect.com/science/article/pii/0010027785900228}
+
+\bibitem{tom_in_animals}
+Call, J., Tomasello, M.: Does the chimpanzee have a theory of mind? 30 years
+  later. Trends in Cognitive Sciences  \textbf{12}(5),  187--192 (2008)
+
+\bibitem{DUMMY:1}
+Doe, J.: The Book without Title. Dummy Publisher (2100)
+
+\bibitem{theory_of_mind}
+Franchin, L.: Theory of Mind, pp. 1639--1644. Springer International
+  Publishing, Cham (2022)
+
+\bibitem{tom_children_2014}
+Frye, D., Moore, C.: Children's theories of mind: Mental states and social
+  understanding. Psychology Press (2014)
+
+\bibitem{fb_test_contents}
+Perner, J., Leekam, S.R., Wimmer, H.: Three-year-olds' difficulty with false
+  belief: The case for a conceptual deficit. British Journal of Developmental
+  Psychology  \textbf{5}(2),  125--137 (1987).
+  \doi{https://doi.org/10.1111/j.2044-835X.1987.tb01048.x},
+  \url{https://bpspsychub.onlinelibrary.wiley.com/doi/abs/10.1111/j.2044-835X.1987.tb01048.x}
+
+\bibitem{tom_children_2001}
+Wellman, H.M., Cross, D., Watson, J.: Meta-analysis of theory-of-mind
+  development: The truth about false belief. Child Development  \textbf{72}(3),
+   655--684 (2001). \doi{https://doi.org/10.1111/1467-8624.00304},
+  \url{https://srcd.onlinelibrary.wiley.com/doi/abs/10.1111/1467-8624.00304}
+
+\bibitem{fb_test_places_1}
+Wimmer, H., Perner, J.: Beliefs about beliefs: Representation and constraining
+  function of wrong beliefs in young children's understanding of deception.
+  Cognition  \textbf{13}(1),  103--128 (1983).
+  \doi{https://doi.org/10.1016/0010-0277(83)90004-5},
+  \url{https://www.sciencedirect.com/science/article/pii/0010027783900045}
+
+\end{thebibliography}
