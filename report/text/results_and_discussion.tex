@@ -3,8 +3,24 @@
 \subsection{Results of Studies 1-3}
 The results of the first and second study show that GPT-3.5 correctly answers the two example tasks with almost 100\% probability for choosing the correct answer in each prompt. Furthermore the development of answer probabilities following each sentence of the task descriptions aligns with the answers expected by the author given the amount of information given for each prompt e.g., in the Unexpected Contents Task the prediction of the correct content does not change even when the faulty label is introduced however the prediction of belief switches from the actual content to the one described on the label as the fact that the actual contents are unknown and imperceivable to the person is introduced. It is interesting to not that the prompts regarding the actual state of reality in both tasks are always answered with 100\% certainty whereas the prompts regarding false beliefs almost always have a probability below 100\% and go as low as 82\% in one case. As for the results using scrambled versions of the tests the model only solved 6\% of the Unexpected Contents Tasks and 11\% of the Unexpected Transfer Tasks correctly, proving that the order of the information is crucial for the model's ability to pass the chosen tests.
 
-Regarding study 3 
-MAKE TABLE OF ALL RESULTS
-\subsection{Research Implications According to Kosinski}
-- Recent GPT models have ToM or current understanding of ToM is wrong
-- ToM must have emerged spontaneously
+Regarding study 3 the results are summarised in table \ref{study3}. One can clearly see that the performance of a model in false-belief tests rises with parameter size and therefore the most recent models GPT-3.5 and GPT-4 outperform the older and smaller models by far. Kosinski relies on the work of Wellman et al. \cite{tom_children_2001} for a comparison of these performances to that of children in different age groups. This places 3.5-year-old children at a performance of 43\% and seven-year-old children at a performance of approximately 90\%. Kosinski also argues that the tasks the models had to solve were harder than the original tasks that were designed for direct interviews with children, often using visual aides such as puppets and also having the model complete prompts instead of answering yes-or-no questions.\cite{kosinski}
+
+\begin{table}
+\caption{Percentage of correctly solved false-belief tasks for all models for study 3 on both task types including the year of the model release and parameter count \cite{kosinski}}\label{study3}
+\begin{tabular}{|l|l|l|l|l|}
+\hline
+Model &  Month/Year & Size & Unexpected Contents& Unexpected Transfer\\
+\hline
+GPT-4 & 03/23 & unknown & 95\% & 100\%\\
+GPT-3.5 & 11/22 & 175B & 85\% & 95\%\\
+GPT-3 (davinci-200) & 01/22 & 175B & 70\% & 70\%\\
+BLOOM & 06/22 & 176B & 40\% & 45\%\\
+GPT-3 (davinci-001) & 05/20 & 175B & 40\% & 35\%\\
+GPT-3 (curie-001) & 05/20 & 6.7B & 5\% & 5\%\\
+GPT-2 (XL) & 02/19 & 1.5B & 5\% & 5\%\\
+GPT-3 (babbage-001) & 05/20 & 1.3B & 5\% & 5\%\\
+GPT-3 (ada-001) & 05/20 & 350M & 5\% & 5\%\\
+GPT-1 & 06/18 & 117M & 5\% & 5\%\\
+\hline
+\end{tabular}
+\end{table}

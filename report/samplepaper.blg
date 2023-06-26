@@ -1,61 +1,63 @@
 This is BibTeX, Version 0.99d (TeX Live 2022/dev/Debian)
 Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
 The top-level auxiliary file: samplepaper.aux
+White space in argument---line 45 of file samplepaper.aux
+ : \citation{tom_children_2001,
+ :                              p. 665}
+I'm skipping whatever remains of this command
+White space in argument---line 48 of file samplepaper.aux
+ : \citation{critics1,
+ :                     critics2, critics3}
+I'm skipping whatever remains of this command
+White space in argument---line 49 of file samplepaper.aux
+ : \citation{critics1,
+ :                     critics3}
+I'm skipping whatever remains of this command
 The style file: splncs04.bst
-White space in argument---line 19 of file samplepaper.aux
- : \citation{tom_children_2001,p.
- :                                665}
-I'm skipping whatever remains of this command
-White space in argument---line 20 of file samplepaper.aux
- : \citation{tom_children_2001,p.
- :                                665}
-I'm skipping whatever remains of this command
 Database file #1: text/references.bib
-Warning--I didn't find a database entry for "ref_article1"
-Warning--I didn't find a database entry for "ref_lncs1"
-Warning--I didn't find a database entry for "ref_book1"
-Warning--I didn't find a database entry for "ref_proc1"
-Warning--I didn't find a database entry for "ref_url1"
+Warning--entry type for "critics2" isn't style-file defined
+--line 146 of file text/references.bib
 Warning--can't use both author and editor fields in theory_of_mind
-You've used 6 entries,
+Warning--empty booktitle in gpt1
+You've used 13 entries,
             2850 wiz_defined-function locations,
-            649 strings with 6009 characters,
-and the built_in function-call counts, 3742 in all, are:
-= -- 317
-> -- 82
-< -- 11
-+ -- 34
-- -- 28
-* -- 254
-:= -- 455
-add.period$ -- 10
-call.type$ -- 6
-change.case$ -- 31
+            676 strings with 7234 characters,
+and the built_in function-call counts, 7184 in all, are:
+= -- 567
+> -- 231
+< -- 12
++ -- 95
+- -- 82
+* -- 473
+:= -- 906
+add.period$ -- 14
+call.type$ -- 13
+change.case$ -- 81
 chr.to.int$ -- 0
-cite$ -- 7
-duplicate$ -- 335
-empty$ -- 339
-format.name$ -- 33
-if$ -- 843
+cite$ -- 15
+duplicate$ -- 620
+empty$ -- 662
+format.name$ -- 92
+if$ -- 1576
 int.to.chr$ -- 0
-int.to.str$ -- 6
-missing$ -- 62
-newline$ -- 24
-num.names$ -- 12
-pop$ -- 90
+int.to.str$ -- 13
+missing$ -- 124
+newline$ -- 45
+num.names$ -- 26
+pop$ -- 255
 preamble$ -- 1
-purify$ -- 26
+purify$ -- 67
 quote$ -- 0
-skip$ -- 125
+skip$ -- 203
 stack$ -- 0
-substring$ -- 246
-swap$ -- 217
-text.length$ -- 11
+substring$ -- 387
+swap$ -- 357
+text.length$ -- 12
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 22
-warning$ -- 1
-while$ -- 30
-width$ -- 7
-write$ -- 77
-(There were 2 error messages)
+type$ -- 50
+warning$ -- 2
+while$ -- 54
+width$ -- 15
+write$ -- 134
+(There were 3 error messages)

@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2023.6.22)  25 JUN 2023 18:00
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2023.6.22)  26 JUN 2023 21:23
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -228,43 +228,24 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 
 (./text/introduction.tex) (./text/related_work.tex [1
 
-{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}]
-
-LaTeX Warning: Citation `attention' on page 2 undefined on input line 21.
-
-[2]
-
-LaTeX Warning: Citation `gpt1' on page 3 undefined on input line 23.
-
-) (./text/methods.tex [3]) [4] (./text/results_and_discussion.tex)
-(./text/conclusions_and_implications.tex) (./text/reviewer_perspective.tex
-
-LaTeX Warning: Citation ` p. 665' on page 5 undefined on input line 13.
-
-
-LaTeX Warning: Citation ` p. 665' on page 5 undefined on input line 14.
-
-) [5] (./text/future_work.tex)
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}] [2]) (./text/methods.tex [
+3]) [4]
+(./text/results_and_discussion.tex
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <9> on input line 73.
+(Font)              <9> on input line 10.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 73.
-Package epstopdf Info: Source file: <fig1.eps>
-(epstopdf)                    date: 2023-06-22 11:32:23
-(epstopdf)                    size: 357553 bytes
-(epstopdf)             Output file: <fig1-eps-converted-to.pdf>
-(epstopdf)                    date: 2023-06-22 11:32:23
-(epstopdf)                    size: 26206 bytes
-(epstopdf)             Command: <repstopdf --outfile=fig1-eps-converted-to.pdf 
-fig1.eps>
-(epstopdf)             \includegraphics on input line 97.
-Package epstopdf Info: Output file is already uptodate.
-<fig1-eps-converted-to.pdf, id=24, 345.29pt x 142.5325pt>
-File: fig1-eps-converted-to.pdf Graphic file (type pdf)
-<use fig1-eps-converted-to.pdf>
-Package pdftex.def Info: fig1-eps-converted-to.pdf  used on input line 97.
-(pdftex.def)             Requested size: 347.12354pt x 143.29115pt.
- [6] (./samplepaper.bbl
+(Font)              <6> on input line 10.
+
+Overfull \hbox (12.51118pt too wide) in paragraph at lines 10--26
+[][] 
+ []
+
+) (./text/conclusions_and_implications.tex [5])
+(./text/reviewer_perspective.tex [6]
+
+LaTeX Warning: Citation ` p. 665' on page 7 undefined on input line 9.
+
+[7]) (./text/future_work.tex) (./samplepaper.bbl
 Underfull \hbox (badness 10000) in paragraph at lines 7--11
 []\T1/cmr/m/n/9 Baron-Cohen, S., Leslie, A.M., Frith, U.: Does the autis-
  []
@@ -281,107 +262,104 @@ Underfull \hbox (badness 10000) in paragraph at lines 7--11
 2-8,
  []
 
+[8]
+Underfull \hbox (badness 10000) in paragraph at lines 25--27
+[]\T1/cmr/m/n/9 Marcus, G., Davis, E.: How not to test gpt-3 (2023),
+ []
 
-Underfull \hbox (badness 10000) in paragraph at lines 21--26
+
+Underfull \hbox (badness 10000) in paragraph at lines 29--34
 []\T1/cmr/m/n/9 Perner, J., Leekam, S.R., Wim-mer, H.: Three-year-olds' dif-fi-
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 21--26
+Underfull \hbox (badness 10000) in paragraph at lines 29--34
 \T1/cmr/m/n/9 culty with false be-lief: The case for a con-cep-tual deficit. Br
 itish
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 21--26
+Underfull \hbox (badness 10000) in paragraph at lines 29--34
 \T1/cmr/m/n/9 Jour-nal of De-vel-op-men-tal Psy-chol-ogy \T1/cmr/bx/n/9 5\T1/cm
 r/m/n/9 (2), 125--137 (1987).
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 21--26
+Underfull \hbox (badness 10000) in paragraph at lines 29--34
 \T1/cmr/m/n/9 https://doi.org/https://doi.org/10.1111/j.2044-835X.1987.tb01048.
 x,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 21--26
+Underfull \hbox (badness 10000) in paragraph at lines 29--34
 \T1/cmr/m/n/9 https://bpspsychub.onlinelibrary.wiley.com/doi/abs/10.1111/j.2044
 -
  []
 
-[7 <./fig1-eps-converted-to.pdf>]
-Underfull \hbox (badness 5231) in paragraph at lines 28--32
+
+Underfull \hbox (badness 3815) in paragraph at lines 62--66
 []\T1/cmr/m/n/9 Wellman, H.M., Cross, D., Wat-son, J.: Meta-analysis of theory-
 of-mind
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 28--32
+Underfull \hbox (badness 6842) in paragraph at lines 62--66
 \T1/cmr/m/n/9 de-vel-op-ment: The truth about false be-lief. Child De-vel-op-me
 nt \T1/cmr/bx/n/9 72\T1/cmr/m/n/9 (3),
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 28--32
+Underfull \hbox (badness 10000) in paragraph at lines 62--66
 \T1/cmr/m/n/9 655--684 (2001). https://doi.org/https://doi.org/10.1111/1467-862
 4.00304,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 34--39
+Underfull \hbox (badness 10000) in paragraph at lines 68--73
 []\T1/cmr/m/n/9 Wimmer, H., Perner, J.: Be-liefs about be-liefs: Rep-re-sen-ta-
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 34--39
+Underfull \hbox (badness 10000) in paragraph at lines 68--73
 \T1/cmr/m/n/9 tion and con-strain-ing func-tion of wrong be-liefs in young chil
 -
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 34--39
+Underfull \hbox (badness 10000) in paragraph at lines 68--73
 \T1/cmr/m/n/9 dren's un-der-stand-ing of de-cep-tion. Cog-ni-tion \T1/cmr/bx/n/
 9 13\T1/cmr/m/n/9 (1), 103--128
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 34--39
+Underfull \hbox (badness 10000) in paragraph at lines 68--73
 \T1/cmr/m/n/9 (1983). https://doi.org/https://doi.org/10.1016/0010-0277(83)9000
 4-5,
  []
 
-) [8] (./samplepaper.aux)
-
-LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
-
- ) 
+) [9] [10] (./samplepaper.aux) ) 
 Here is how much of TeX's memory you used:
- 2043 strings out of 480204
- 30535 string characters out of 5895010
- 327820 words of memory out of 5000000
- 19984 multiletter control sequences out of 15000+600000
- 478954 words of font info for 45 fonts, out of 8000000 for 9000
+ 2037 strings out of 480204
+ 30373 string characters out of 5895010
+ 331837 words of memory out of 5000000
+ 19982 multiletter control sequences out of 15000+600000
+ 477582 words of font info for 43 fonts, out of 8000000 for 9000
  36 hyphenation exceptions out of 8191
- 55i,9n,62p,1544b,314s stack positions out of 5000i,500n,10000p,200000b,80000s
- </home/guntherubuntu/.texlive2021/texmf-var/fonts/pk/ljfour/jknappen/ec/ecti
-0900.600pk> </home/guntherubuntu/.texlive2021/texmf-var/fonts/pk/ljfour/jknappe
-n/ec/ecbx1440.600pk> </home/guntherubuntu/.texlive2021/texmf-var/fonts/pk/ljfou
-r/jknappen/ec/ecti1000.600pk> </home/guntherubuntu/.texlive2021/texmf-var/fonts
-/pk/ljfour/jknappen/ec/tcrm0900.600pk> </home/guntherubuntu/.texlive2021/texmf-
-var/fonts/pk/ljfour/jknappen/ec/ecbx0900.600pk> </home/guntherubuntu/.texlive20
-21/texmf-var/fonts/pk/ljfour/jknappen/ec/ecrm0900.600pk> </home/guntherubuntu/.
-texlive2021/texmf-var/fonts/pk/ljfour/jknappen/ec/ecrm1000.600pk> </home/gunthe
-rubuntu/.texlive2021/texmf-var/fonts/pk/ljfour/jknappen/ec/ecbx1000.600pk> </ho
-me/guntherubuntu/.texlive2021/texmf-var/fonts/pk/ljfour/jknappen/ec/ecbx1200.60
-0pk></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></
-usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb>
-Output written on samplepaper.pdf (8 pages, 151526 bytes).
+ 55i,8n,62p,1544b,313s stack positions out of 5000i,500n,10000p,200000b,80000s
+ </home/guntherubuntu/.texlive2021/texmf-var/fo
+nts/pk/ljfour/jknappen/ec/tcrm0900.600pk> </home/guntherubuntu/.texlive2021/tex
+mf-var/fonts/pk/ljfour/jknappen/ec/ecbx0900.600pk> </home/guntherubuntu/.texliv
+e2021/texmf-var/fonts/pk/ljfour/jknappen/ec/ecrm0900.600pk> </home/guntherubunt
+u/.texlive2021/texmf-var/fonts/pk/ljfour/jknappen/ec/ecrm1000.600pk> </home/gun
+therubuntu/.texlive2021/texmf-var/fonts/pk/ljfour/jknappen/ec/ecbx1000.600pk> <
+/home/guntherubuntu/.texlive2021/texmf-var/fonts/pk/ljfour/jknappen/ec/ecbx1200
+.600pk>
+Output written on samplepaper.pdf (10 pages, 98351 bytes).
 PDF statistics:
- 415 PDF objects out of 1000 (max. 8388607)
- 69 compressed objects within 1 object stream
+ 320 PDF objects out of 1000 (max. 8388607)
+ 48 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
- 6 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 1 words of extra memory for PDF output out of 10000 (max. 10000000)
 

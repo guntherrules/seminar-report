@@ -15,15 +15,16 @@ In alignment with Kosinski's paper the Smarties Task will be called Unexpected C
 
 As for results in developmental psychology regarding ToM, Kosinski refers to the work of Wellman et al. which agglomerates several studies on ToM (and other attributes) of children mainly aged from 2.5 to 6 years old and interpolates their performance on both Smarties and Sally-Anne Tasks \cite{tom_children_2001}. The results of this paper are used to compare the performance of LLMs on similar tasks to the performance of children in an attempt to assign an age to the level of reasoning LLMs supposedly posses.
 
+Finally, it is important to note that these tests though well-established do not cover the whole landscape of ToM testing that currently exists. There is the Faux-Pas Test for social intelligence \cite{tom_test2} or the Reading-the-Mind-in-the-Eyes Test to test emotional intelligence in adults \cite{tom_test1}. These tests are not taken into account in Kosinski's research.
+
 \subsection{Large Language Models}
 The second foundational knowledge related to Kosinski's paper is that about Large Language Models (LLMs). Therefore, in this section some key facts about LLMs and specifically GPT-1 to GPT-4 are presented since these models are used in Kosinski's paper.
 
 LLMs are used in the field of Natural Language Processing (NLP) for text generation, question answering or other text-related tasks that they can be fine-tuned to do. The underlying architecture most frequently used is a Transformer which revolutionised deep learning techniques when it was introduced in 2017 \cite{attention}. Transformers in NLP get a tokenised version of the input text and output probabilities for each word of the vocabulary for the output text generation. The most important part here is that during training the Transformer trains an Attention layer, which can basically learn contextual relations of words.
 
-For LLMs as the name suggests the trainable parameters reach very high numbers (up to several billions). The models are pre-trained on a large text databases and can be fine-tuned on specific tasks to create custom models. Generative Pre-Trained Transformers (GPT) first got published by OpenAI in 2018 with GPT-1 which had a parameter size of approximately 110 million and pre-trained on roughly 7,000 books \cite{gpt1}. Since then the model involved over several iterations and grew size both regarding the amount of parameters and training data. 
+For LLMs as the name suggests the trainable parameters reach very high numbers (up to several billions). The models are pre-trained on a large text databases and can be fine-tuned on specific tasks to create custom models. Generative Pre-Trained Transformers (GPT) first got published by OpenAI in 2018 with GPT-1 which had a parameter size of approximately 110 million and pre-trained on roughly 7,000 books \cite{gpt1}. Since then the model got developed further and over several iterations and grew both in parameter size and training data. GPT-3 already has 175 billion parameters and was only published two years later \cite{gpt3}.
 
-- GPT-1: 110 million, 7,000 books
-- GPT-2: 1.5 billion, 8 million documents from web crawling
+A few interesting characteristics of LLMs compared to smaller language models are
 
 - abilities seem to emerge
 - not able to steer development

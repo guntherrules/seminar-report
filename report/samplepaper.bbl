@@ -1,4 +1,4 @@
-\begin{thebibliography}{1}
+\begin{thebibliography}{10}
 \providecommand{\url}[1]{\texttt{#1}}
 \providecommand{\urlprefix}{URL }
 \providecommand{\doi}[1]{https://doi.org/#1}
@@ -17,12 +17,46 @@ Call, J., Tomasello, M.: Does the chimpanzee have a theory of mind? 30 years
 Franchin, L.: Theory of Mind, pp. 1639--1644. Springer International
   Publishing, Cham (2022)
 
+\bibitem{kosinski}
+Kosinski, M.: Theory of mind may have spontaneously emerged in large language
+  models (2023)
+
+\bibitem{critics2}
+Marcus, G., Davis, E.: How not to test gpt-3 (2023),
+  \url{https://garymarcus.substack.com/p/how-not-to-test-gpt-3}
+
 \bibitem{fb_test_contents}
 Perner, J., Leekam, S.R., Wimmer, H.: Three-year-olds' difficulty with false
   belief: The case for a conceptual deficit. British Journal of Developmental
   Psychology  \textbf{5}(2),  125--137 (1987).
   \doi{https://doi.org/10.1111/j.2044-835X.1987.tb01048.x},
   \url{https://bpspsychub.onlinelibrary.wiley.com/doi/abs/10.1111/j.2044-835X.1987.tb01048.x}
+
+\bibitem{gpt1}
+Radford, A., Narasimhan, K.: Improving language understanding by generative
+  pre-training (2018)
+
+\bibitem{socialiqa}
+Sap, M., Rashkin, H., Chen, D., Le~Bras, R., Choi, Y.: Social {IQ}a:
+  Commonsense reasoning about social interactions. In: Proceedings of the 2019
+  Conference on Empirical Methods in Natural Language Processing and the 9th
+  International Joint Conference on Natural Language Processing (EMNLP-IJCNLP).
+  pp. 4463--4473. Association for Computational Linguistics, Hong Kong, China
+  (Nov 2019). \doi{10.18653/v1/D19-1454},
+  \url{https://aclanthology.org/D19-1454}
+
+\bibitem{critics1}
+Shapira, N., Levy, M., Alavi, S.H., Zhou, X., Choi, Y., Goldberg, Y., Sap, M.,
+  Shwartz, V.: Clever hans or neural theory of mind? stress testing social
+  reasoning in large language models (2023)
+
+\bibitem{critics3}
+Ullman, T.: Large language models fail on trivial alterations to theory-of-mind
+  tasks (2023)
+
+\bibitem{attention}
+Vaswani, A., Shazeer, N., Parmar, N., Uszkoreit, J., Jones, L., Gomez, A.N.,
+  Kaiser, L., Polosukhin, I.: Attention is all you need (2017)
 
 \bibitem{tom_children_2001}
 Wellman, H.M., Cross, D., Watson, J.: Meta-analysis of theory-of-mind
