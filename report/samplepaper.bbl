@@ -3,11 +3,27 @@
 \providecommand{\urlprefix}{URL }
 \providecommand{\doi}[1]{https://doi.org/#1}
 
+\bibitem{tom_test1}
+Baron-Cohen, S., Jolliffe, T., Mortimore, C., Robertson, M.: Another advanced
+  test of theory of mind: Evidence from very high functioning adults with
+  autism or asperger syndrome. Journal of Child Psychology and Psychiatry
+  \textbf{38}(7),  813--822 (1997).
+  \doi{https://doi.org/10.1111/j.1469-7610.1997.tb01599.x},
+  \url{https://acamh.onlinelibrary.wiley.com/doi/abs/10.1111/j.1469-7610.1997.tb01599.x}
+
 \bibitem{fb_test_places_2}
 Baron-Cohen, S., Leslie, A.M., Frith, U.: Does the autistic child have a
   “theory of mind” ? Cognition  \textbf{21}(1),  37--46 (1985).
   \doi{https://doi.org/10.1016/0010-0277(85)90022-8},
   \url{https://www.sciencedirect.com/science/article/pii/0010027785900228}
+
+\bibitem{gpt3}
+Brown, T.B., Mann, B., Ryder, N., Subbiah, M., Kaplan, J., Dhariwal, P.,
+  Neelakantan, A., Shyam, P., Sastry, G., Askell, A., Agarwal, S.,
+  Herbert-Voss, A., Krueger, G., Henighan, T., Child, R., Ramesh, A., Ziegler,
+  D.M., Wu, J., Winter, C., Hesse, C., Chen, M., Sigler, E., Litwin, M., Gray,
+  S., Chess, B., Clark, J., Berner, C., McCandlish, S., Radford, A., Sutskever,
+  I., Amodei, D.: Language models are few-shot learners (2020)
 
 \bibitem{tom_in_animals}
 Call, J., Tomasello, M.: Does the chimpanzee have a theory of mind? 30 years
@@ -25,6 +41,10 @@ Kosinski, M.: Theory of mind may have spontaneously emerged in large language
 Marcus, G., Davis, E.: How not to test gpt-3 (2023),
   \url{https://garymarcus.substack.com/p/how-not-to-test-gpt-3}
 
+\bibitem{future}
+Moghaddam, S.R., Honey, C.J.: Boosting theory-of-mind performance in large
+  language models via prompting (2023)
+
 \bibitem{fb_test_contents}
 Perner, J., Leekam, S.R., Wimmer, H.: Three-year-olds' difficulty with false
   belief: The case for a conceptual deficit. British Journal of Developmental
@@ -35,6 +55,10 @@ Perner, J., Leekam, S.R., Wimmer, H.: Three-year-olds' difficulty with false
 \bibitem{gpt1}
 Radford, A., Narasimhan, K.: Improving language understanding by generative
   pre-training (2018)
+
+\bibitem{related}
+Sap, M., LeBras, R., Fried, D., Choi, Y.: Neural theory-of-mind? on the limits
+  of social intelligence in large lms (2023)
 
 \bibitem{socialiqa}
 Sap, M., Rashkin, H., Chen, D., Le~Bras, R., Choi, Y.: Social {IQ}a:
@@ -49,6 +73,11 @@ Sap, M., Rashkin, H., Chen, D., Le~Bras, R., Choi, Y.: Social {IQ}a:
 Shapira, N., Levy, M., Alavi, S.H., Zhou, X., Choi, Y., Goldberg, Y., Sap, M.,
   Shwartz, V.: Clever hans or neural theory of mind? stress testing social
   reasoning in large language models (2023)
+
+\bibitem{tom_test2}
+Stone, V.E., Baron-Cohen, S., Knight, R.T.: Frontal lobe contributions to
+  theory of mind. Journal of Cognitive Neuroscience  \textbf{10},  640--656
+  (1998)
 
 \bibitem{critics3}
 Ullman, T.: Large language models fail on trivial alterations to theory-of-mind

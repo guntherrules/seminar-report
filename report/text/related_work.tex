@@ -24,9 +24,9 @@ LLMs are used in the field of Natural Language Processing (NLP) for text generat
 
 For LLMs as the name suggests the trainable parameters reach very high numbers (up to several billions). The models are pre-trained on a large text databases and can be fine-tuned on specific tasks to create custom models. Generative Pre-Trained Transformers (GPT) first got published by OpenAI in 2018 with GPT-1 which had a parameter size of approximately 110 million and pre-trained on roughly 7,000 books \cite{gpt1}. Since then the model got developed further and over several iterations and grew both in parameter size and training data. GPT-3 already has 175 billion parameters and was only published two years later \cite{gpt3}.
 
-A few interesting characteristics of LLMs compared to smaller language models are
+An interesting characteristic of LLMs compared to smaller language models is that they develop skills as byproducts \cite{llms}. LLMs are mostly trained on completing text prompts and no other abilities are specifically engineered into their architecture, so any other ability like translating text or reading comprehension spontaneously emerge \cite{gpt3}. While smaller models require fine-tuning to solve more specific tasks than simple prompt completion, LLMs outperform other state-of-the-art models \cite{gpt3}.
 
-- abilities seem to emerge
-- not able to steer development
-- outperform humans in many tasks
 \subsection{Theory of Mind in Large Language Models}
+As for the combination of the topics above: Theory of Mind in Large Language Models, a paper published a few months before Kosinski's take on this topic heavily suggests that LLMs do not possess ToM. The presented experiments consist of tests using GPT-3 both in pre-trained form and few-shot form up to 24. The datasets used are SocialIQa probing emotional and social intelligence \cite{socialiqa} and ToMi QA \cite{tomi} resulting in almost 4,000 questions asked for each model. The results of this method show that GPT-3 at the time has below 60\% accuracy in one-shot applications and reaches 60\% accuracy given 24 training examples before solving the task and thus perform far below humans. \cite{related}
+
+Other papers relating to Kosinski's work will be discussed in later sections of this report as they are more recent than the paper in question, follow up on the research presented and therefore are easier to put into context once the methods and results of Kosinski have been explained in the sections coming up.

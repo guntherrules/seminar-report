@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2023.6.22)  26 JUN 2023 21:23
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2023.6.6)  27 JUN 2023 00:07
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -228,9 +228,17 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 
 (./text/introduction.tex) (./text/related_work.tex [1
 
-{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}] [2]) (./text/methods.tex [
-3]) [4]
-(./text/results_and_discussion.tex
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [2]
+
+LaTeX Warning: Citation `llms' on page 3 undefined on input line 27.
+
+
+LaTeX Warning: Citation `tomi' on page 3 undefined on input line 30.
+
+) (./text/methods.tex [3] [4]) (./text/results_and_discussion.tex [5]
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <9> on input line 10.
 LaTeX Font Info:    External font `cmex10' loaded for size
@@ -240,126 +248,133 @@ Overfull \hbox (12.51118pt too wide) in paragraph at lines 10--26
 [][] 
  []
 
-) (./text/conclusions_and_implications.tex [5])
-(./text/reviewer_perspective.tex [6]
+) (./text/conclusions_and_implications.tex [6])
+(./text/reviewer_perspective.tex [7]) [8] (./text/future_work.tex)
+(./samplepaper.bbl
+Underfull \hbox (badness 10000) in paragraph at lines 7--13
+\T1/cmr/m/n/9 (1997). https://doi.org/https://doi.org/10.1111/j.1469-7610.1997.
+tb01599.x,
+ []
 
-LaTeX Warning: Citation ` p. 665' on page 7 undefined on input line 9.
 
-[7]) (./text/future_work.tex) (./samplepaper.bbl
-Underfull \hbox (badness 10000) in paragraph at lines 7--11
+Underfull \hbox (badness 10000) in paragraph at lines 7--13
+\T1/cmr/m/n/9 https://acamh.onlinelibrary.wiley.com/doi/abs/10.1111/j.1469-
+ []
+
+[9]
+Underfull \hbox (badness 10000) in paragraph at lines 15--19
 []\T1/cmr/m/n/9 Baron-Cohen, S., Leslie, A.M., Frith, U.: Does the autis-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 7--11
+Underfull \hbox (badness 10000) in paragraph at lines 15--19
 \T1/cmr/m/n/9 tic child have a ^^Pthe-ory of mind^^Q ? Cog-ni-tion \T1/cmr/bx/n
 /9 21\T1/cmr/m/n/9 (1), 37--46
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 7--11
+Underfull \hbox (badness 10000) in paragraph at lines 15--19
 \T1/cmr/m/n/9 (1985). https://doi.org/https://doi.org/10.1016/0010-0277(85)9002
 2-8,
  []
 
-[8]
-Underfull \hbox (badness 10000) in paragraph at lines 25--27
+
+Underfull \hbox (badness 10000) in paragraph at lines 41--43
 []\T1/cmr/m/n/9 Marcus, G., Davis, E.: How not to test gpt-3 (2023),
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 29--34
+Underfull \hbox (badness 10000) in paragraph at lines 49--54
 []\T1/cmr/m/n/9 Perner, J., Leekam, S.R., Wim-mer, H.: Three-year-olds' dif-fi-
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 29--34
+Underfull \hbox (badness 10000) in paragraph at lines 49--54
 \T1/cmr/m/n/9 culty with false be-lief: The case for a con-cep-tual deficit. Br
 itish
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 29--34
+Underfull \hbox (badness 10000) in paragraph at lines 49--54
 \T1/cmr/m/n/9 Jour-nal of De-vel-op-men-tal Psy-chol-ogy \T1/cmr/bx/n/9 5\T1/cm
 r/m/n/9 (2), 125--137 (1987).
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 29--34
+Underfull \hbox (badness 10000) in paragraph at lines 49--54
 \T1/cmr/m/n/9 https://doi.org/https://doi.org/10.1111/j.2044-835X.1987.tb01048.
 x,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 29--34
+Underfull \hbox (badness 10000) in paragraph at lines 49--54
 \T1/cmr/m/n/9 https://bpspsychub.onlinelibrary.wiley.com/doi/abs/10.1111/j.2044
 -
  []
 
-
-Underfull \hbox (badness 3815) in paragraph at lines 62--66
+[10]
+Underfull \hbox (badness 3815) in paragraph at lines 91--95
 []\T1/cmr/m/n/9 Wellman, H.M., Cross, D., Wat-son, J.: Meta-analysis of theory-
 of-mind
  []
 
 
-Underfull \hbox (badness 6842) in paragraph at lines 62--66
+Underfull \hbox (badness 6842) in paragraph at lines 91--95
 \T1/cmr/m/n/9 de-vel-op-ment: The truth about false be-lief. Child De-vel-op-me
 nt \T1/cmr/bx/n/9 72\T1/cmr/m/n/9 (3),
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 62--66
+Underfull \hbox (badness 10000) in paragraph at lines 91--95
 \T1/cmr/m/n/9 655--684 (2001). https://doi.org/https://doi.org/10.1111/1467-862
 4.00304,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 68--73
+Underfull \hbox (badness 10000) in paragraph at lines 97--102
 []\T1/cmr/m/n/9 Wimmer, H., Perner, J.: Be-liefs about be-liefs: Rep-re-sen-ta-
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 68--73
+Underfull \hbox (badness 10000) in paragraph at lines 97--102
 \T1/cmr/m/n/9 tion and con-strain-ing func-tion of wrong be-liefs in young chil
 -
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 68--73
+Underfull \hbox (badness 10000) in paragraph at lines 97--102
 \T1/cmr/m/n/9 dren's un-der-stand-ing of de-cep-tion. Cog-ni-tion \T1/cmr/bx/n/
 9 13\T1/cmr/m/n/9 (1), 103--128
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 68--73
+Underfull \hbox (badness 10000) in paragraph at lines 97--102
 \T1/cmr/m/n/9 (1983). https://doi.org/https://doi.org/10.1016/0010-0277(83)9000
 4-5,
  []
 
-) [9] [10] (./samplepaper.aux) ) 
+) [11] (./samplepaper.aux) ) 
 Here is how much of TeX's memory you used:
  2037 strings out of 480204
- 30373 string characters out of 5895010
- 331837 words of memory out of 5000000
+ 30361 string characters out of 5895011
+ 331844 words of memory out of 5000000
  19982 multiletter control sequences out of 15000+600000
  477582 words of font info for 43 fonts, out of 8000000 for 9000
  36 hyphenation exceptions out of 8191
- 55i,8n,62p,1544b,313s stack positions out of 5000i,500n,10000p,200000b,80000s
- </home/guntherubuntu/.texlive2021/texmf-var/fo
-nts/pk/ljfour/jknappen/ec/tcrm0900.600pk> </home/guntherubuntu/.texlive2021/tex
-mf-var/fonts/pk/ljfour/jknappen/ec/ecbx0900.600pk> </home/guntherubuntu/.texliv
-e2021/texmf-var/fonts/pk/ljfour/jknappen/ec/ecrm0900.600pk> </home/guntherubunt
-u/.texlive2021/texmf-var/fonts/pk/ljfour/jknappen/ec/ecrm1000.600pk> </home/gun
-therubuntu/.texlive2021/texmf-var/fonts/pk/ljfour/jknappen/ec/ecbx1000.600pk> <
-/home/guntherubuntu/.texlive2021/texmf-var/fonts/pk/ljfour/jknappen/ec/ecbx1200
-.600pk>
-Output written on samplepaper.pdf (10 pages, 98351 bytes).
+ 55i,8n,62p,1848b,312s stack positions out of 5000i,500n,10000p,200000b,80000s
+ </home/gunther/.texlive2021/texmf-var/fonts/pk/ljf
+our/jknappen/ec/tcrm0900.600pk> </home/gunther/.texlive2021/texmf-var/fonts/pk/
+ljfour/jknappen/ec/ecbx0900.600pk> </home/gunther/.texlive2021/texmf-var/fonts/
+pk/ljfour/jknappen/ec/ecrm0900.600pk> </home/gunther/.texlive2021/texmf-var/fon
+ts/pk/ljfour/jknappen/ec/ecrm1000.600pk> </home/gunther/.texlive2021/texmf-var/
+fonts/pk/ljfour/jknappen/ec/ecbx1000.600pk> </home/gunther/.texlive2021/texmf-v
+ar/fonts/pk/ljfour/jknappen/ec/ecbx1200.600pk>
+Output written on samplepaper.pdf (11 pages, 103100 bytes).
 PDF statistics:
- 320 PDF objects out of 1000 (max. 8388607)
- 48 compressed objects within 1 object stream
+ 326 PDF objects out of 1000 (max. 8388607)
+ 50 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
