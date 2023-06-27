@@ -17,6 +17,9 @@ Baron-Cohen, S., Leslie, A.M., Frith, U.: Does the autistic child have a
   \doi{https://doi.org/10.1016/0010-0277(85)90022-8},
   \url{https://www.sciencedirect.com/science/article/pii/0010027785900228}
 
+\bibitem{llms}
+Bowman, S.R.: Eight things to know about large language models (2023)
+
 \bibitem{gpt3}
 Brown, T.B., Mann, B., Ryder, N., Subbiah, M., Kaplan, J., Dhariwal, P.,
   Neelakantan, A., Shyam, P., Sastry, G., Askell, A., Agarwal, S.,
@@ -36,6 +39,14 @@ Franchin, L.: Theory of Mind, pp. 1639--1644. Springer International
 \bibitem{kosinski}
 Kosinski, M.: Theory of mind may have spontaneously emerged in large language
   models (2023)
+
+\bibitem{tomi}
+Le, M., Boureau, Y.L., Nickel, M.: Revisiting the evaluation of theory of mind
+  through question answering. In: Proceedings of the 2019 Conference on
+  Empirical Methods in Natural Language Processing and the 9th International
+  Joint Conference on Natural Language Processing (EMNLP-IJCNLP). pp.
+  5872--5877. Association for Computational Linguistics, Hong Kong, China (Nov
+  2019). \doi{10.18653/v1/D19-1598}, \url{https://aclanthology.org/D19-1598}
 
 \bibitem{critics2}
 Marcus, G., Davis, E.: How not to test gpt-3 (2023),

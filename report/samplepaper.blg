@@ -1,52 +1,46 @@
 This is BibTeX, Version 0.99d (TeX Live 2022/dev/Debian)
 Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
 The top-level auxiliary file: samplepaper.aux
-White space in argument---line 46 of file samplepaper.aux
- : \citation{tom_children_2001,
- :                              p. 665}
-I'm skipping whatever remains of this command
 The style file: splncs04.bst
 Database file #1: text/references.bib
-Warning--empty booktitle in gpt1
-You've used 18 entries,
+You've used 20 entries,
             2850 wiz_defined-function locations,
-            702 strings with 8640 characters,
-and the built_in function-call counts, 10809 in all, are:
-= -- 815
-> -- 461
-< -- 16
-+ -- 188
-- -- 170
-* -- 742
-:= -- 1392
-add.period$ -- 17
-call.type$ -- 18
-change.case$ -- 140
+            711 strings with 8898 characters,
+and the built_in function-call counts, 11875 in all, are:
+= -- 909
+> -- 485
+< -- 17
++ -- 198
+- -- 178
+* -- 806
+:= -- 1520
+add.period$ -- 21
+call.type$ -- 20
+change.case$ -- 152
 chr.to.int$ -- 0
-cite$ -- 19
-duplicate$ -- 891
-empty$ -- 921
-format.name$ -- 185
-if$ -- 2318
+cite$ -- 20
+duplicate$ -- 980
+empty$ -- 1030
+format.name$ -- 194
+if$ -- 2562
 int.to.chr$ -- 0
-int.to.str$ -- 18
-missing$ -- 196
-newline$ -- 60
-num.names$ -- 36
-pop$ -- 413
+int.to.str$ -- 20
+missing$ -- 211
+newline$ -- 66
+num.names$ -- 40
+pop$ -- 452
 preamble$ -- 1
-purify$ -- 121
+purify$ -- 129
 quote$ -- 0
-skip$ -- 272
+skip$ -- 300
 stack$ -- 0
-substring$ -- 508
-swap$ -- 533
-text.length$ -- 16
+substring$ -- 584
+swap$ -- 582
+text.length$ -- 17
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 70
-warning$ -- 1
-while$ -- 73
-width$ -- 20
-write$ -- 178
-(There was 1 error message)
+type$ -- 78
+warning$ -- 0
+while$ -- 82
+width$ -- 22
+write$ -- 199
